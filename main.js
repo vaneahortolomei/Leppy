@@ -2,7 +2,9 @@ import './style.css'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    Hello this leppy
+    <header>
+        <img src="/logo.svg" alt="logo"/>
+    </header>
   </div>
 `
 
